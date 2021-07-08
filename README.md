@@ -16,4 +16,4 @@ A brief analysis of how some commonly used variables correlate with COVID-19 vac
 * seaborn
 
 ## Visualization
-![Vaccine Rate Analysis](www.github.com/miRNA183/vaccine_rate_analysis/vaccine_rate_analysis.jpeg)
+![Vaccine Rate Analysis](https://github.com/miRNA183/vaccine_rate_analysis/blob/main/vaccine_rate_analysis.jpg)
