@@ -1,5 +1,5 @@
 # COVID-19 vaccination rate (by state) compared with some other variables.
-A brief analysis of how some commonly used variables correlate with COVID-19 vaccination rates
+A brief exploratory visualization of how some commonly cited variables correlate with COVID-19 vaccination rates
 
 ## Sources of data:
 * Vaccination rates for each state collected from CDC data compiled here: https://www.beckershospitalreview.com/public-health/states-ranked-by-percentage-of-population-vaccinated-march-15.html
